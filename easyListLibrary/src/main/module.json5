@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "easyListLibrary",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
