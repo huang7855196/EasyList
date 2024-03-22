@@ -1,0 +1,1 @@
+对harmonyOS List封装，简化使用List，提高性能，像Android使用RecyclerView一样简单使用List，实现添加Header、Footer，自定义加载更多动画等功能
